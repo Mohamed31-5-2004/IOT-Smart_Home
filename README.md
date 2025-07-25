@@ -38,5 +38,5 @@ A fully simulated smart home system offering **remote access, environmental moni
 
 ---
 
-> 📄 Created by: Abdalrhman Khalid Akl & Mohamed Ahmed  
+> 📄 Created by: Abdalrhman Khalid Akl & Mohamed Ahmed {HASH}  
 > 📚 Course: Computer Networking (CSE 261)
